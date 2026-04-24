@@ -158,7 +158,7 @@ DOCS_PATH=../dify/
 
 **Streamlit Web UI**：
 
-![Dify RAG Web UI](https://via.placeholder.com/800x400?text=Streamlit+Web+UI+Demo)
+![RAG UI](picture/rag_ui.png)
 <details>
 <summary>💡 点击查看更多截图</summary>
 
@@ -528,5 +528,4 @@ If this project helped you, please ⭐ Star to show your support!
 </details>
 
 ---
-
 
