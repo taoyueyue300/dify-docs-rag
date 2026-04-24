@@ -224,16 +224,6 @@ LLM_MODEL=qwen2.5:7b
 
 ---
 
-### 📚 进阶阅读
-
-- [代码详解.md](代码详解.md) — 逐行讲解每个模块
-- [使用说明.md](使用说明.md) — 常见问题与故障排查
-- [多源知识库扩展指南.md](docs/多源知识库扩展指南.md) — PDF/网页接入
-- [性能基准报告.md](性能基准报告.md) — 延迟、吞吐、并发
-- [experiment_report.md](experiment_report.md) — 参数优化实验
-
----
-
 ### ❓ 常见问题
 
 **Q: 为什么回答是空的？**  
@@ -474,16 +464,6 @@ LLM_MODEL=qwen2.5:7b
 - ✅ **Do NOT commit**: FAISS index, reports, model cache
 - ✅ API Key leaked? Rotate immediately & clean history (`git-filter-repo`)
 - ✅ Scan for secrets: `grep -r "sk-\|api_key" . --exclude-dir=.git`
-
----
-
-### 📚 Further Reading
-
-- [代码详解.md](代码详解.md) — Code walkthrough
-- [使用说明.md](使用说明.md) — FAQ & troubleshooting
-- [多源知识库扩展指南.md](docs/多源知识库扩展指南.md) — PDF/web integration
-- [性能基准报告.md](性能基准报告.md) — Latency, throughput, concurrency
-- [experiment_report.md](experiment_report.md) — Parameter optimization experiments
 
 ---
 
