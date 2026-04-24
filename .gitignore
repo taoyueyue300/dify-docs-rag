@@ -27,6 +27,9 @@ faiss_index_multi/
 *_report.json
 eval_report.json
 
+# Local documentation moved out of repository tracking
+docs/
+
 # OS / editor
 .DS_Store
 Thumbs.db
